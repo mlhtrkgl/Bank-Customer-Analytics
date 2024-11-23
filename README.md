@@ -15,7 +15,7 @@ This project analyzes customer data from a bank to predict credit scores and und
 - Numpy
 - Matplotlib
 - Seaborn
-- 
+  
 ## Dataset
 The dataset includes various features related to bank customers like age, occupation, credit score, etc.
 The link to the data set used:
@@ -28,7 +28,7 @@ The dataset used in this project comprises various customer attributes from a ba
 This project is done under the bootcamp of Global AI Hub: Aygaz Data Analysis Bootcamp Sponsored by AYGAZ
 
 ## Author
-- [Your Name]
+- Melih Türkoğlu
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
