@@ -7,8 +7,6 @@ This project analyzes customer data from a bank to predict credit scores and und
 - Data import and first look
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA) including visualizations of distributions and correlations
-- Handling missing data
-- Feature engineering
 
 ## Libraries Used
 - Pandas
