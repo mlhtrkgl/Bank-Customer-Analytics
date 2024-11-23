@@ -28,9 +28,6 @@ This project is done under the bootcamp of Global AI Hub: Aygaz Data Analysis Bo
 ## Author
 - Melih Türkoğlu
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributions
 Contributions are welcome. Please open an issue first to discuss what you would like to change.
 
